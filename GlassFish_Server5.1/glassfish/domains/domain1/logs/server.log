@@ -1,0 +1,598 @@
+[2023-07-05T14:08:43.263+0200] [glassfish 5.1] [INFO] [NCLS-LOGGING-00009] [javax.enterprise.logging] [tid: _ThreadID=27 _ThreadName=RunLevelControllerThread-1688558922888] [timeMillis: 1688558923263] [levelValue: 800] [[
+  Running GlassFish Version: GlassFish Server Open Source Edition  5.1.0  (build default-private)]]
+
+[2023-07-05T14:08:43.265+0200] [glassfish 5.1] [INFO] [NCLS-LOGGING-00010] [javax.enterprise.logging] [tid: _ThreadID=27 _ThreadName=RunLevelControllerThread-1688558922888] [timeMillis: 1688558923265] [levelValue: 800] [[
+  Server log file is using Formatter class: com.sun.enterprise.server.logging.ODLLogFormatter]]
+
+[2023-07-05T14:08:43.620+0200] [glassfish 5.1] [INFO] [] [org.hibernate.validator.internal.util.Version] [tid: _ThreadID=29 _ThreadName=RunLevelControllerThread-1688558922922] [timeMillis: 1688558923620] [levelValue: 800] [[
+  HV000001: Hibernate Validator 6.0.10.Final]]
+
+[2023-07-05T14:08:43.625+0200] [glassfish 5.1] [INFO] [NCLS-SECURITY-01115] [javax.enterprise.system.core.security] [tid: _ThreadID=28 _ThreadName=RunLevelControllerThread-1688558922922] [timeMillis: 1688558923625] [levelValue: 800] [[
+  Realm [admin-realm] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2023-07-05T14:08:43.627+0200] [glassfish 5.1] [INFO] [NCLS-SECURITY-01115] [javax.enterprise.system.core.security] [tid: _ThreadID=28 _ThreadName=RunLevelControllerThread-1688558922922] [timeMillis: 1688558923627] [levelValue: 800] [[
+  Realm [file] of classtype [com.sun.enterprise.security.auth.realm.file.FileRealm] successfully created.]]
+
+[2023-07-05T14:08:43.631+0200] [glassfish 5.1] [INFO] [NCLS-SECURITY-01115] [javax.enterprise.system.core.security] [tid: _ThreadID=28 _ThreadName=RunLevelControllerThread-1688558922922] [timeMillis: 1688558923631] [levelValue: 800] [[
+  Realm [certificate] of classtype [com.sun.enterprise.security.auth.realm.certificate.CertificateRealm] successfully created.]]
+
+[2023-07-05T14:08:43.687+0200] [glassfish 5.1] [INFO] [SEC-SVCS-00100] [javax.enterprise.security.services] [tid: _ThreadID=28 _ThreadName=RunLevelControllerThread-1688558922922] [timeMillis: 1688558923687] [levelValue: 800] [[
+  Authorization Service has successfully initialized.]]
+
+[2023-07-05T14:08:43.745+0200] [glassfish 5.1] [INFO] [] [org.glassfish.ha.store.spi.BackingStoreFactoryRegistry] [tid: _ThreadID=27 _ThreadName=RunLevelControllerThread-1688558922888] [timeMillis: 1688558923745] [levelValue: 800] [[
+  Registered org.glassfish.ha.store.adapter.cache.ShoalBackingStoreProxy for persistence-type = replicated in BackingStoreFactoryRegistry]]
+
+[2023-07-05T14:08:43.811+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=26 _ThreadName=RunLevelControllerThread-1688558922877] [timeMillis: 1688558923811] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 27ms - bound to [/0.0.0.0:8080]]]
+
+[2023-07-05T14:08:43.835+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=26 _ThreadName=RunLevelControllerThread-1688558922877] [timeMillis: 1688558923835] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 2ms - bound to [/0.0.0.0:8181]]]
+
+[2023-07-05T14:08:43.843+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=26 _ThreadName=RunLevelControllerThread-1688558922877] [timeMillis: 1688558923843] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 3ms - bound to [/0.0.0.0:4848]]]
+
+[2023-07-05T14:08:43.881+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=27 _ThreadName=RunLevelControllerThread-1688558922888] [timeMillis: 1688558923881] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 3ms - bound to [/0.0.0.0:3700]]]
+
+[2023-07-05T14:08:44.104+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00017] [javax.enterprise.system.core] [tid: _ThreadID=1 _ThreadName=main] [timeMillis: 1688558924104] [levelValue: 800] [[
+  GlassFish Server Open Source Edition  5.1.0  (default-private) startup time : Felix (16.216ms), startup services(1.243ms), total(17.459ms)]]
+
+[2023-07-05T14:08:44.233+0200] [glassfish 5.1] [INFO] [jts.startup_msg] [javax.enterprise.system.core.transaction.com.sun.jts.CosTransactions] [tid: _ThreadID=27 _ThreadName=RunLevelControllerThread-1688558922888] [timeMillis: 1688558924233] [levelValue: 800] [[
+  JTS5014: Recoverable JTS instance, serverId = [100]]]
+
+[2023-07-05T14:08:44.407+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=27 _ThreadName=RunLevelControllerThread-1688558922888] [timeMillis: 1688558924407] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 4ms - bound to [/0.0.0.0:7676]]]
+
+[2023-07-05T14:08:44.410+0200] [glassfish 5.1] [INFO] [NCLS-BOOTSTRAP-00027] [javax.enterprise.bootstrap] [tid: _ThreadID=1 _ThreadName=main] [timeMillis: 1688558924410] [levelValue: 800] [[
+  Registered com.sun.enterprise.glassfish.bootstrap.osgi.EmbeddedOSGiGlassFishImpl@2ffb3aec as OSGi service registration: org.apache.felix.framework.ServiceRegistrationImpl@786ff1cb.]]
+
+[2023-07-05T14:08:46.387+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=66 _ThreadName=pool-11-thread-1] [timeMillis: 1688558926387] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 6ms - bound to [/0.0.0.0:8080]]]
+
+[2023-07-05T14:08:46.411+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=66 _ThreadName=pool-11-thread-1] [timeMillis: 1688558926411] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 6ms - bound to [/0.0.0.0:8181]]]
+
+[2023-07-05T14:08:46.967+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=124 _ThreadName=pool-22-thread-1] [timeMillis: 1688558926967] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 3ms - bound to [/0.0.0.0:8181]]]
+
+[2023-07-05T14:08:47.026+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927026] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:47.215+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00087] [javax.enterprise.system.core] [tid: _ThreadID=125 _ThreadName=pool-23-thread-1] [timeMillis: 1688558927215] [levelValue: 800] [[
+  Grizzly Framework 2.4.4 started in: 8ms - bound to [/0.0.0.0:8080]]]
+
+[2023-07-05T14:08:47.661+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00198] [javax.enterprise.web] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927661] [levelValue: 800] [[
+  Created HTTP listener http-listener-1 on host/port 0.0.0.0:8080]]
+
+[2023-07-05T14:08:47.669+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00198] [javax.enterprise.web] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927669] [levelValue: 800] [[
+  Created HTTP listener http-listener-2 on host/port 0.0.0.0:8181]]
+
+[2023-07-05T14:08:47.671+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00198] [javax.enterprise.web] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927671] [levelValue: 800] [[
+  Created HTTP listener admin-listener on host/port 0.0.0.0:4848]]
+
+[2023-07-05T14:08:47.694+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00200] [javax.enterprise.web] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927694] [levelValue: 800] [[
+  Created virtual server server]]
+
+[2023-07-05T14:08:47.698+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00200] [javax.enterprise.web] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927698] [levelValue: 800] [[
+  Created virtual server __asadmin]]
+
+[2023-07-05T14:08:47.891+0200] [glassfish 5.1] [INFO] [AS-WEB-CORE-00306] [javax.enterprise.web.core] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927891] [levelValue: 800] [[
+  Setting JAAS app name glassfish-web]]
+
+[2023-07-05T14:08:47.892+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00201] [javax.enterprise.web] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558927892] [levelValue: 800] [[
+  Virtual server server loaded default web module ]]
+
+[2023-07-05T14:08:48.576+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558928576] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.663+0200] [glassfish 5.1] [INFO] [NCLS-SECURITY-01002] [javax.enterprise.system.core.security] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558928663] [levelValue: 800] [[
+  Java security manager is disabled.]]
+
+[2023-07-05T14:08:48.663+0200] [glassfish 5.1] [INFO] [NCLS-SECURITY-01010] [javax.enterprise.system.core.security] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558928663] [levelValue: 800] [[
+  Entering Security Startup Service.]]
+
+[2023-07-05T14:08:48.667+0200] [glassfish 5.1] [INFO] [NCLS-SECURITY-01143] [javax.enterprise.system.core.security] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558928667] [levelValue: 800] [[
+  Loading policy provider com.sun.enterprise.security.provider.PolicyWrapper.]]
+
+[2023-07-05T14:08:48.711+0200] [glassfish 5.1] [INFO] [NCLS-SECURITY-01011] [javax.enterprise.system.core.security] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558928711] [levelValue: 800] [[
+  Security Service(s) started successfully.]]
+
+[2023-07-05T14:08:48.844+0200] [glassfish 5.1] [INFO] [NCLS-JMX-00005] [javax.enterprise.system.jmx] [tid: _ThreadID=72 _ThreadName=Thread-14] [timeMillis: 1688558928844] [levelValue: 800] [[
+  JMXStartupService has started JMXConnector on JMXService URL service:jmx:rmi://DESKTOP-B7K44QQ:8686/jndi/rmi://DESKTOP-B7K44QQ:8686/jmxrmi]]
+
+[2023-07-05T14:08:48.858+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558928858] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.943+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558928943] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.964+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558928964] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.967+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558928967] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.978+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558928978] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.988+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558928988] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.989+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558928989] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:48.991+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558928991] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:49.078+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbc.util] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558929078] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:08:49.121+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.dol] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558929121] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:49.380+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.dol] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558929380] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:08:49.634+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbcruntime] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558929634] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:08:49.635+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbc.util] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558929635] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:08:50.687+0200] [glassfish 5.1] [INFO] [jsf.config.listener.version] [javax.enterprise.resource.webcontainer.jsf.config] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558930687] [levelValue: 800] [[
+  Inicializando Mojarra 2.3.9 para el contexto '']]
+
+[2023-07-05T14:08:50.777+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558930777] [levelValue: 800] [[
+  EclipseLink, version: Eclipse Persistence Services - 2.7.4.v20190115-ad5b7c6b2a]]
+
+[2023-07-05T14:08:51.242+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558931242] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU login successful]]
+
+[2023-07-05T14:08:51.750+0200] [glassfish 5.1] [INFO] [jsf.config.listener.version] [javax.enterprise.resource.webcontainer.jsf.config] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558931750] [levelValue: 800] [[
+  Inicializando Mojarra 2.3.9 para el contexto '/ProyectoDAW']]
+
+[2023-07-05T14:08:51.930+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00172] [javax.enterprise.web] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558931930] [levelValue: 800] [[
+  Loading application [__admingui] at [/]]]
+
+[2023-07-05T14:08:51.933+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00022] [javax.enterprise.system.core] [tid: _ThreadID=123 _ThreadName=Thread-33] [timeMillis: 1688558931933] [levelValue: 800] [[
+  Loading application __admingui done in 5.254 ms]]
+
+[2023-07-05T14:08:52.098+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00172] [javax.enterprise.web] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558932098] [levelValue: 800] [[
+  Loading application [ProyectoDAW] at [/ProyectoDAW]]]
+
+[2023-07-05T14:08:52.128+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.core] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688558932128] [levelValue: 800] [[
+  ProyectoDAW was successfully deployed in 3.977 milliseconds.]]
+
+[2023-07-05T14:08:52.293+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.system.container.web.com.sun.web.security] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688558932293] [levelValue: 900] [[
+  Context path from ServletContext:  differs from path from bundle: /]]
+
+[2023-07-05T14:08:53.238+0200] [glassfish 5.1] [INFO] [NCLS-REST-00001] [javax.enterprise.admin.rest] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688558933238] [levelValue: 800] [[
+  Listening to REST requests at context: /management/domain.]]
+
+[2023-07-05T14:08:53.274+0200] [glassfish 5.1] [INFO] [NCLS-REST-00001] [javax.enterprise.admin.rest] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688558933274] [levelValue: 800] [[
+  Listening to REST requests at context: /management/domain.]]
+
+[2023-07-05T14:10:37.381+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559037381] [levelValue: 800] [[
+  ENTRA]]
+
+[2023-07-05T14:10:37.382+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559037382] [levelValue: 800] [[
+  CORREO Y CONTRASEÑA: jfkd@jflas.es1234]]
+
+[2023-07-05T14:10:37.395+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559037395] [levelValue: 800] [[
+  ERROR]]
+
+[2023-07-05T14:10:59.679+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=145 _ThreadName=Thread-8] [timeMillis: 1688559059679] [levelValue: 800] [[
+  Valor del parametro email: ccamachobanez@gmail.com]]
+
+[2023-07-05T14:11:07.531+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=147 _ThreadName=Thread-8] [timeMillis: 1688559067531] [levelValue: 800] [[
+  Registrando usuario ccamachobanez@gmail.comcarlos1234]]
+
+[2023-07-05T14:11:07.543+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.web] [tid: _ThreadID=147 _ThreadName=http-listener-1(5)] [timeMillis: 1688559067543] [levelValue: 900] [[
+  StandardWrapperValve[UsuariosController]: Servlet.service() for servlet UsuariosController threw exception
+java.lang.ArrayIndexOutOfBoundsException: Array index out of range: 0
+	at java.util.Vector.get(Vector.java:753)
+	at Controlers.UsuariosController.processRequest(UsuariosController.java:74)
+	at Controlers.UsuariosController.doPost(UsuariosController.java:184)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:665)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:750)
+	at org.apache.catalina.core.StandardWrapper.service(StandardWrapper.java:1540)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:119)
+	at org.apache.catalina.core.StandardPipeline.doInvoke(StandardPipeline.java:611)
+	at org.apache.catalina.core.StandardPipeline.invoke(StandardPipeline.java:550)
+	at com.sun.enterprise.web.WebPipeline.invoke(WebPipeline.java:75)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:114)
+	at org.apache.catalina.connector.CoyoteAdapter.doService(CoyoteAdapter.java:332)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:199)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:439)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:144)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:182)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:156)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:218)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:95)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:260)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:177)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:109)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:88)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:53)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:515)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:89)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:94)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.access$100(WorkerThreadIOStrategy.java:33)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:114)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:569)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:549)
+	at java.lang.Thread.run(Thread.java:748)
+]]
+
+[2023-07-05T14:12:41.455+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=146 _ThreadName=Thread-8] [timeMillis: 1688559161455] [levelValue: 800] [[
+  Valor del parametro email: ccamachobanez@gmail.com]]
+
+[2023-07-05T14:12:46.876+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=147 _ThreadName=Thread-8] [timeMillis: 1688559166876] [levelValue: 800] [[
+  Registrando usuario ccamachobanez@gmail.comcarlos1234]]
+
+[2023-07-05T14:12:47.173+0200] [glassfish 5.1] [SEVERE] [] [org.apache.jasper.servlet.JspServlet] [tid: _ThreadID=147 _ThreadName=http-listener-1(5)] [timeMillis: 1688559167173] [levelValue: 1000] [[
+  PWC6117: File "null" not found]]
+
+[2023-07-05T14:17:14.005+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434005] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU logout successful]]
+
+[2023-07-05T14:17:14.548+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434548] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:14.793+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434793] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:14.820+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434820] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:14.822+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434822] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:14.822+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434822] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:14.823+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434823] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:14.865+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbc.util] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434865] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:17:14.999+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559434999] [levelValue: 800] [[
+  EclipseLink, version: Eclipse Persistence Services - 2.7.4.v20190115-ad5b7c6b2a]]
+
+[2023-07-05T14:17:15.007+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559435007] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU login successful]]
+
+[2023-07-05T14:17:15.127+0200] [glassfish 5.1] [INFO] [jsf.config.listener.version] [javax.enterprise.resource.webcontainer.jsf.config] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559435127] [levelValue: 800] [[
+  Inicializando Mojarra 2.3.9 para el contexto '/ProyectoDAW']]
+
+[2023-07-05T14:17:15.406+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00172] [javax.enterprise.web] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559435406] [levelValue: 800] [[
+  Loading application [ProyectoDAW] at [/ProyectoDAW]]]
+
+[2023-07-05T14:17:15.421+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.core] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688559435421] [levelValue: 800] [[
+  ProyectoDAW was successfully deployed in 1.468 milliseconds.]]
+
+[2023-07-05T14:17:20.270+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=144 _ThreadName=Thread-8] [timeMillis: 1688559440270] [levelValue: 800] [[
+  Registrando usuario ccamachobanez@gmail.comcarlos1234]]
+
+[2023-07-05T14:17:27.964+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559447964] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU logout successful]]
+
+[2023-07-05T14:17:28.400+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448400] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:28.559+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448559] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:28.589+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448589] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:28.591+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448591] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:28.592+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448592] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:28.593+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448593] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:17:28.626+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbc.util] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448626] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:17:28.755+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448755] [levelValue: 800] [[
+  EclipseLink, version: Eclipse Persistence Services - 2.7.4.v20190115-ad5b7c6b2a]]
+
+[2023-07-05T14:17:28.769+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448769] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU login successful]]
+
+[2023-07-05T14:17:28.876+0200] [glassfish 5.1] [INFO] [jsf.config.listener.version] [javax.enterprise.resource.webcontainer.jsf.config] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559448876] [levelValue: 800] [[
+  Inicializando Mojarra 2.3.9 para el contexto '/ProyectoDAW']]
+
+[2023-07-05T14:17:29.114+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00172] [javax.enterprise.web] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559449114] [levelValue: 800] [[
+  Loading application [ProyectoDAW] at [/ProyectoDAW]]]
+
+[2023-07-05T14:17:29.129+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.core] [tid: _ThreadID=54 _ThreadName=admin-listener(3)] [timeMillis: 1688559449129] [levelValue: 800] [[
+  ProyectoDAW was successfully deployed in 1.229 milliseconds.]]
+
+[2023-07-05T14:19:00.775+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=146 _ThreadName=Thread-8] [timeMillis: 1688559540775] [levelValue: 800] [[
+  Valor del parametro email: hola@gmail.com]]
+
+[2023-07-05T14:19:07.235+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=145 _ThreadName=Thread-8] [timeMillis: 1688559547235] [levelValue: 800] [[
+  Registrando usuario hola@gmail.comcarlos1234]]
+
+[2023-07-05T14:19:40.848+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=147 _ThreadName=Thread-8] [timeMillis: 1688559580848] [levelValue: 800] [[
+  CERRANDO SESION]]
+
+[2023-07-05T14:19:45.249+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=146 _ThreadName=Thread-8] [timeMillis: 1688559585249] [levelValue: 800] [[
+  Valor del parametro email: ccamachobanez@gmail.com]]
+
+[2023-07-05T14:20:02.627+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=145 _ThreadName=Thread-8] [timeMillis: 1688559602627] [levelValue: 800] [[
+  ENTRA]]
+
+[2023-07-05T14:20:02.627+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=145 _ThreadName=Thread-8] [timeMillis: 1688559602627] [levelValue: 800] [[
+  CORREO Y CONTRASEÑA: ccamacho@gmail.com1234]]
+
+[2023-07-05T14:20:02.632+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=145 _ThreadName=Thread-8] [timeMillis: 1688559602632] [levelValue: 800] [[
+  ERROR]]
+
+[2023-07-05T14:20:29.411+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559629411] [levelValue: 800] [[
+  ENTRA]]
+
+[2023-07-05T14:20:29.411+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559629411] [levelValue: 800] [[
+  CORREO Y CONTRASEÑA: hola@gmail.com1234]]
+
+[2023-07-05T14:20:29.415+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559629415] [levelValue: 800] [[
+  USUARIO RECONOCIDO]]
+
+[2023-07-05T14:20:32.294+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559632294] [levelValue: 800] [[
+  CERRANDO SESION]]
+
+[2023-07-05T14:20:47.067+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=147 _ThreadName=Thread-8] [timeMillis: 1688559647067] [levelValue: 800] [[
+  ENTRA]]
+
+[2023-07-05T14:20:47.067+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=147 _ThreadName=Thread-8] [timeMillis: 1688559647067] [levelValue: 800] [[
+  CORREO Y CONTRASEÑA: ccamachobanez@gmail.com1234]]
+
+[2023-07-05T14:20:47.079+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=147 _ThreadName=Thread-8] [timeMillis: 1688559647079] [levelValue: 800] [[
+  USUARIO RECONOCIDO]]
+
+[2023-07-05T14:22:43.133+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=144 _ThreadName=Thread-8] [timeMillis: 1688559763133] [levelValue: 800] [[
+  D:/Documentos/UHU/DAW/ProyectoDAW/web/img_articulos\102.jpg]]
+
+[2023-07-05T14:22:43.135+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=144 _ThreadName=Thread-8] [timeMillis: 1688559763135] [levelValue: 800] [[
+  java.io.FileNotFoundException: D:\Documentos\UHU\DAW\ProyectoDAW\web\img_articulos\102.jpg (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at Controlers.ArticulosController.processRequest(ArticulosController.java:236)
+	at Controlers.ArticulosController.doPost(ArticulosController.java:369)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:665)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:750)
+	at org.apache.catalina.core.StandardWrapper.service(StandardWrapper.java:1540)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:119)
+	at org.apache.catalina.core.StandardPipeline.doInvoke(StandardPipeline.java:611)
+	at org.apache.catalina.core.StandardPipeline.invoke(StandardPipeline.java:550)
+	at com.sun.enterprise.web.WebPipeline.invoke(WebPipeline.java:75)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:114)
+	at org.apache.catalina.connector.CoyoteAdapter.doService(CoyoteAdapter.java:332)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:199)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:439)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:144)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:182)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:156)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:218)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:95)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:260)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:177)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:109)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:88)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:53)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:515)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:89)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:94)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.access$100(WorkerThreadIOStrategy.java:33)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:114)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:569)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:549)
+	at java.lang.Thread.run(Thread.java:748)
+]]
+
+[2023-07-05T14:22:43.135+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=144 _ThreadName=Thread-8] [timeMillis: 1688559763135] [levelValue: 800] [[
+  Error: Imposible persistir  articulo: prueba]]
+
+[2023-07-05T14:23:43.185+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823185] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU logout successful]]
+
+[2023-07-05T14:23:43.496+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823496] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:23:43.676+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823676] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:23:43.701+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823701] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:23:43.702+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823702] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:23:43.703+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823703] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:23:43.704+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823704] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:23:43.748+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbc.util] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823748] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:23:43.870+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823870] [levelValue: 800] [[
+  EclipseLink, version: Eclipse Persistence Services - 2.7.4.v20190115-ad5b7c6b2a]]
+
+[2023-07-05T14:23:43.877+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823877] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU login successful]]
+
+[2023-07-05T14:23:43.976+0200] [glassfish 5.1] [INFO] [jsf.config.listener.version] [javax.enterprise.resource.webcontainer.jsf.config] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559823976] [levelValue: 800] [[
+  Inicializando Mojarra 2.3.9 para el contexto '/ProyectoDAW']]
+
+[2023-07-05T14:23:44.162+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00172] [javax.enterprise.web] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559824162] [levelValue: 800] [[
+  Loading application [ProyectoDAW] at [/ProyectoDAW]]]
+
+[2023-07-05T14:23:44.178+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.core] [tid: _ThreadID=52 _ThreadName=admin-listener(1)] [timeMillis: 1688559824178] [levelValue: 800] [[
+  ProyectoDAW was successfully deployed in 1.024 milliseconds.]]
+
+[2023-07-05T14:23:46.602+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559826602] [levelValue: 800] [[
+  /ProyectoDAW/web/img_articulos\151.jpg]]
+
+[2023-07-05T14:23:46.603+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559826603] [levelValue: 800] [[
+  java.io.FileNotFoundException: \ProyectoDAW\web\img_articulos\151.jpg (El sistema no puede encontrar la ruta especificada)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at Controlers.ArticulosController.processRequest(ArticulosController.java:236)
+	at Controlers.ArticulosController.doPost(ArticulosController.java:369)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:665)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:750)
+	at org.apache.catalina.core.StandardWrapper.service(StandardWrapper.java:1540)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:217)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:119)
+	at org.apache.catalina.core.StandardPipeline.doInvoke(StandardPipeline.java:611)
+	at org.apache.catalina.core.StandardPipeline.invoke(StandardPipeline.java:550)
+	at com.sun.enterprise.web.WebPipeline.invoke(WebPipeline.java:75)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:114)
+	at org.apache.catalina.connector.CoyoteAdapter.doService(CoyoteAdapter.java:332)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:199)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper$HttpHandlerCallable.call(ContainerMapper.java:439)
+	at com.sun.enterprise.v3.services.impl.ContainerMapper.service(ContainerMapper.java:144)
+	at org.glassfish.grizzly.http.server.HttpHandler.runService(HttpHandler.java:182)
+	at org.glassfish.grizzly.http.server.HttpHandler.doHandle(HttpHandler.java:156)
+	at org.glassfish.grizzly.http.server.HttpServerFilter.handleRead(HttpServerFilter.java:218)
+	at org.glassfish.grizzly.filterchain.ExecutorResolver$9.execute(ExecutorResolver.java:95)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeFilter(DefaultFilterChain.java:260)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.executeChainPart(DefaultFilterChain.java:177)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.execute(DefaultFilterChain.java:109)
+	at org.glassfish.grizzly.filterchain.DefaultFilterChain.process(DefaultFilterChain.java:88)
+	at org.glassfish.grizzly.ProcessorExecutor.execute(ProcessorExecutor.java:53)
+	at org.glassfish.grizzly.nio.transport.TCPNIOTransport.fireIOEvent(TCPNIOTransport.java:515)
+	at org.glassfish.grizzly.strategies.AbstractIOStrategy.fireIOEvent(AbstractIOStrategy.java:89)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.run0(WorkerThreadIOStrategy.java:94)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy.access$100(WorkerThreadIOStrategy.java:33)
+	at org.glassfish.grizzly.strategies.WorkerThreadIOStrategy$WorkerThreadRunnable.run(WorkerThreadIOStrategy.java:114)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.doWork(AbstractThreadPool.java:569)
+	at org.glassfish.grizzly.threadpool.AbstractThreadPool$Worker.run(AbstractThreadPool.java:549)
+	at java.lang.Thread.run(Thread.java:748)
+]]
+
+[2023-07-05T14:23:46.603+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=143 _ThreadName=Thread-8] [timeMillis: 1688559826603] [levelValue: 800] [[
+  Error: Imposible persistir  articulo: prueba]]
+
+[2023-07-05T14:39:51.909+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560791909] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU logout successful]]
+
+[2023-07-05T14:39:52.469+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560792469] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:39:52.602+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560792602] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:39:52.631+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560792631] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:39:52.633+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560792633] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:39:52.634+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560792634] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:39:52.634+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560792634] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:39:52.664+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbc.util] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560792664] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:39:53.080+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560793080] [levelValue: 800] [[
+  EclipseLink, version: Eclipse Persistence Services - 2.7.4.v20190115-ad5b7c6b2a]]
+
+[2023-07-05T14:39:53.087+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560793087] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU login successful]]
+
+[2023-07-05T14:39:53.166+0200] [glassfish 5.1] [INFO] [jsf.config.listener.version] [javax.enterprise.resource.webcontainer.jsf.config] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560793166] [levelValue: 800] [[
+  Inicializando Mojarra 2.3.9 para el contexto '/ProyectoDAW']]
+
+[2023-07-05T14:39:53.360+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00172] [javax.enterprise.web] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560793360] [levelValue: 800] [[
+  Loading application [ProyectoDAW] at [/ProyectoDAW]]]
+
+[2023-07-05T14:39:53.372+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.core] [tid: _ThreadID=55 _ThreadName=admin-listener(4)] [timeMillis: 1688560793372] [levelValue: 800] [[
+  ProyectoDAW was successfully deployed in 1.505 milliseconds.]]
+
+[2023-07-05T14:39:56.818+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=146 _ThreadName=Thread-8] [timeMillis: 1688560796818] [levelValue: 800] [[
+  C:\Users\Carlos\Documents\UHU\DAW\ProyectoDAW\build\web\img_articulos\201.jpg]]
+
+[2023-07-05T14:39:56.819+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=146 _ThreadName=Thread-8] [timeMillis: 1688560796819] [levelValue: 800] [[
+  Tamaño: 99861]]
+
+[2023-07-05T14:44:51.103+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091103] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU logout successful]]
+
+[2023-07-05T14:44:51.368+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091368] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:44:51.475+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091475] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:44:51.495+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091495] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:44:51.496+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091496] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:44:51.497+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091497] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:44:51.498+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.tools.deployment.common] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091498] [levelValue: 800] [[
+  visiting unvisited references]]
+
+[2023-07-05T14:44:51.521+0200] [glassfish 5.1] [WARNING] [] [javax.enterprise.resource.resourceadapter.org.glassfish.jdbc.util] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091521] [levelValue: 900] [[
+  using.default.ds]]
+
+[2023-07-05T14:44:51.609+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091609] [levelValue: 800] [[
+  EclipseLink, version: Eclipse Persistence Services - 2.7.4.v20190115-ad5b7c6b2a]]
+
+[2023-07-05T14:44:51.614+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091614] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU login successful]]
+
+[2023-07-05T14:44:51.719+0200] [glassfish 5.1] [INFO] [jsf.config.listener.version] [javax.enterprise.resource.webcontainer.jsf.config] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091719] [levelValue: 800] [[
+  Inicializando Mojarra 2.3.9 para el contexto '/ProyectoDAW']]
+
+[2023-07-05T14:44:51.903+0200] [glassfish 5.1] [INFO] [AS-WEB-GLUE-00172] [javax.enterprise.web] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091903] [levelValue: 800] [[
+  Loading application [ProyectoDAW] at [/ProyectoDAW]]]
+
+[2023-07-05T14:44:51.914+0200] [glassfish 5.1] [INFO] [] [javax.enterprise.system.core] [tid: _ThreadID=53 _ThreadName=admin-listener(2)] [timeMillis: 1688561091914] [levelValue: 800] [[
+  ProyectoDAW was successfully deployed in 834 milliseconds.]]
+
+[2023-07-05T14:48:16.974+0200] [glassfish 5.1] [INFO] [NCLS-CORE-00092] [javax.enterprise.system.core] [tid: _ThreadID=622 _ThreadName=Thread-56] [timeMillis: 1688561296974] [levelValue: 800] [[
+  Server shutdown initiated]]
+
+[2023-07-05T14:48:16.980+0200] [glassfish 5.1] [INFO] [NCLS-BOOTSTRAP-00028] [javax.enterprise.bootstrap] [tid: _ThreadID=622 _ThreadName=Thread-56] [timeMillis: 1688561296980] [levelValue: 800] [[
+  Unregistered com.sun.enterprise.glassfish.bootstrap.osgi.EmbeddedOSGiGlassFishImpl@2ffb3aec from service registry.]]
+
+[2023-07-05T14:48:16.981+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=622 _ThreadName=Thread-8] [timeMillis: 1688561296981] [levelValue: 800] [[
+  FileMonitoring shutdown]]
+
+[2023-07-05T14:48:16.987+0200] [glassfish 5.1] [INFO] [NCLS-JMX-00002] [javax.enterprise.system.jmx] [tid: _ThreadID=622 _ThreadName=Thread-56] [timeMillis: 1688561296987] [levelValue: 800] [[
+  JMXStartupService: Stopped JMXConnectorServer: null]]
+
+[2023-07-05T14:48:16.987+0200] [glassfish 5.1] [INFO] [NCLS-JMX-00001] [javax.enterprise.system.jmx] [tid: _ThreadID=622 _ThreadName=Thread-56] [timeMillis: 1688561296987] [levelValue: 800] [[
+  JMXStartupService and JMXConnectors have been shut down.]]
+
+[2023-07-05T14:48:17.056+0200] [glassfish 5.1] [INFO] [] [org.eclipse.persistence.session./file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU.connection] [tid: _ThreadID=630 _ThreadName=RunLevelControllerThread-1688561297026] [timeMillis: 1688561297056] [levelValue: 800] [[
+  /file:/C:/Users/Carlos/Documents/UHU/DAW/ProyectoDAW/build/web/WEB-INF/classes/_ProyectoDAWPU logout successful]]
+
+[2023-07-05T14:48:17.135+0200] [glassfish 5.1] [INFO] [] [] [tid: _ThreadID=627 _ThreadName=Thread-8] [timeMillis: 1688561297135] [levelValue: 800] [[
+  JdbcRuntimeExtension,  getAllSystemRAResourcesAndPools = [GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcConnectionPool, GlassFishConfigBean.org.glassfish.jdbc.config.JdbcResource]]]
+
+[2023-07-05T14:48:17.145+0200] [glassfish 5.1] [INFO] [ra.stop-successful] [javax.enterprise.resource.resourceadapter.com.sun.enterprise.connectors.service] [tid: _ThreadID=631 _ThreadName=Thread-64] [timeMillis: 1688561297145] [levelValue: 800] [[
+  RAR7094: __ds_jdbc_ra shutdown successful.]]
+

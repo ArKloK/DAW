@@ -73,7 +73,12 @@ public class UsuariosController extends HttpServlet {
 
                 user.setRol(query2.getResultList().get(0));
                 persist(user);
-                vista = "/index_login.jsp";
+                
+                session = request.getSession();
+                session.setAttribute("usuario", user);
+                session.setAttribute("lartFavoritos", user.getArticulosFavoritos());
+                
+                vista = "/index.jsp";
             }
             break;
 

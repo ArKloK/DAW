@@ -224,7 +224,8 @@ public class ArticulosController extends HttpServlet {
                         String file = filePart.getSubmittedFileName();
 
                         String relativePathFolder = "img_articulos";
-                        String absolutePathFolder = "D:/Documentos/UHU/DAW/ProyectoDAW/web/" + relativePathFolder;
+                        String absolutePathFolder = getServletContext().getRealPath(relativePathFolder);
+                        //String absolutePathFolder = "/ProyectoDAW/web/" + relativePathFolder;
 
                         File folder = new File(absolutePathFolder);
                         if (!folder.exists()) {
@@ -236,7 +237,6 @@ public class ArticulosController extends HttpServlet {
                         OutputStream p = new FileOutputStream(f);
                         InputStream filecontent;
                         filecontent = filePart.getInputStream();
-                        System.out.println("Tamaño: " + filePart.getSize());
 
                         int read = 0;
                         final byte[] bytes = new byte[1024];
